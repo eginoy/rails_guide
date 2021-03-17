@@ -28,7 +28,7 @@ class ArticlesController < ApplicationController
   def update
     @article = Article.find(params[:id])
     if @article.update(article_params)
-      flash[:success] = "Object was successfully updated"
+      flash[:success] = "Article was successfully updated"
       redirect_to @article
     else
       flash[:error] = "Something went wrong"
@@ -39,7 +39,7 @@ class ArticlesController < ApplicationController
 def destroy
   @article = Article.find(params[:id])
   if @article.destroy
-    flash[:success] = 'Object was successfully deleted.'
+    flash[:success] = 'Article was successfully deleted.'
     redirect_to articles_url
   else
     flash[:error] = 'Something went wrong'
