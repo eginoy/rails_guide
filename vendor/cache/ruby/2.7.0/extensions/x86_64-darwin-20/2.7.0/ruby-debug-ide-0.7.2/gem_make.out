@@ -1,0 +1,7 @@
+current directory: /Users/toshiki/workspace/eginoy_blog/vendor/cache/ruby/2.7.0/gems/ruby-debug-ide-0.7.2/ext
+/Users/toshiki/.rbenv/versions/2.7.2/bin/ruby mkrf_conf.rb
+Installing base gem
+Building native extensions. This could take a while...
+
+current directory: /Users/toshiki/workspace/eginoy_blog/vendor/cache/ruby/2.7.0/gems/ruby-debug-ide-0.7.2/ext
+/Users/toshiki/.rbenv/versions/2.7.2/bin/ruby -I/Users/toshiki/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -rrubygems /Users/toshiki/workspace/eginoy_blog/vendor/cache/ruby/2.7.0/gems/rake-13.0.3/exe/rake RUBYARCHDIR\=/Users/toshiki/workspace/eginoy_blog/vendor/cache/ruby/2.7.0/extensions/x86_64-darwin-20/2.7.0/ruby-debug-ide-0.7.2 RUBYLIBDIR\=/Users/toshiki/workspace/eginoy_blog/vendor/cache/ruby/2.7.0/extensions/x86_64-darwin-20/2.7.0/ruby-debug-ide-0.7.2
